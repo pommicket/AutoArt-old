@@ -7,6 +7,8 @@ For an online version of AutoArt go to http://autoart.neocities.org
 
 For a faster version of AutoArt that runs on your GPU, try [AutoArtGPU](http://github.com/pommicket/AutoArtGPU). Note that this has many more dependencies than AutoArt, so it will be harder to install.
 
+An explanation of how AutoArt works can be found [here](http://autoart.neocities.org/explanation.html).
+
 **AutoVideos (not AutoImages) requires avconv**
 
 **Mac OSX is not supported. If you want to run AutoArt on a Mac, either compile the source code yourself, go to the [online version](http://autoart.neocities.org), or try [AutoArtGPU](http://github.com/pommicket/AutoArtGPU).**
