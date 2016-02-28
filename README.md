@@ -11,7 +11,7 @@ For a faster version of AutoArt that runs on your GPU, try [AutoArtGPU](http://g
 
 **Mac OSX is not supported. If you want to run AutoArt on a Mac, either compile the source code yourself, go to the [online version](http://autoart.neocities.org), or try [AutoArtGPU](http://github.com/pommicket/AutoArtGPU).**
 
-**Running on Windows:**  
+**Running AutoArt on Windows:**  
 AutoImages:  
 An exe can be found in `AutoImages/bin/Windows`
 
@@ -20,7 +20,7 @@ An exe can be found in `AutoVideos/bin/Windows`
 **Avconv installation for Windows:**  
 You can find avconv [here](http://builds.libav.org/windows/release-gpl/). Just extract it to a folder and add that folder to your path (Advanced system settings -> Environment variables).
 
-**Running on GNU/Linux**  
+**Running AutoArt on GNU/Linux:**  
 AutoImages:  
 An executable can be found in `AutoImages/bin/GNULinux`
 
