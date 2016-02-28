@@ -1,6 +1,8 @@
 # AutoArt
 A computer program that generates art
 
+**AutoArt now has an [Android app](https://github.com/pommicket/AutoArtAndroid).**
+
 AutoArt uses [stb_image](https://github.com/nothings/stb) to create images.
 
 For an online version of AutoArt go to http://autoart.neocities.org
@@ -34,4 +36,4 @@ On Debian/Ubuntu just run the following command:
 sudo apt-get install libav-tools
 ```
 
-AutoArt now has an [Android app](https://github.com/pommicket/AutoArtAndroid).
+
