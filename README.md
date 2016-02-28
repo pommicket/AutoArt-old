@@ -33,3 +33,5 @@ On Debian/Ubuntu just run the following command:
 ```
 sudo apt-get install libav-tools
 ```
+
+AutoArt now has an [Android app](https://github.com/pommicket/AutoArtAndroid).
