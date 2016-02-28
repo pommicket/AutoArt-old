@@ -13,19 +13,19 @@ For a faster version of AutoArt that runs on your GPU, try [AutoArtGPU](http://g
 
 **Running on Windows:**  
 AutoImages:  
-An exe can be found in AutoImages/bin/Windows
+An exe can be found in `AutoImages/bin/Windows`
 
 AutoVideos:  
-An exe can be found in AutoVideos/bin/Windows  
+An exe can be found in `AutoVideos/bin/Windows`  
 **Avconv installation for Windows:**  
 You can find avconv [here](http://builds.libav.org/windows/release-gpl/). Just extract it to a folder and add that folder to your path (Advanced system settings -> Environment variables).
 
 **Running on GNU/Linux**  
 AutoImages:  
-An executable can be found in AutoImages/bin/GNULinux
+An executable can be found in `AutoImages/bin/GNULinux`
 
 AutoVideos: 
-An executable can be found in AutoVideos/bin/GNULinux  
+An executable can be found in `AutoVideos/bin/GNULinux`  
 **Avconv installation for GNU/Linux:**  
 On Debian/Ubuntu just run the following command:  
 ```
