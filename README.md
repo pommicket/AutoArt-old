@@ -3,6 +3,8 @@ A computer program that generates art
 
 **AutoArt now has an [Android app](https://github.com/pommicket/AutoArtAndroid).**
 
+**[AutoCam](http://github.com/pommicket/AutoCam) uses videos from your webcam to generate AutoArt!**
+
 AutoArt uses [stb_image](https://github.com/nothings/stb) to create images.
 
 For an online version of AutoArt go to http://autoart.neocities.org
