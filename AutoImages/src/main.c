@@ -14,7 +14,7 @@
 #include "Random.h"
 
 
-#define FUNCTION_LENGTH 40
+#define FUNCTION_LENGTH 20
 
 
 
@@ -133,9 +133,9 @@ matrix* evalFunction(char* function, int width, int height)
         }
 
         if (strEquals(token, "x"))
-            push(stack, x);
+            push(stack, cpy_matrix(x));
         else if (strEquals(token, "y"))
-            push(stack, y);
+            push(stack, cpy_matrix(y));
         else if (strEquals(token, "sin"))
             push(stack, sin_matrix(pop(stack)));
         else if (strEquals(token, "cos"))
@@ -211,7 +211,9 @@ matrix* evalFunction(char* function, int width, int height)
 
         token = strtok(NULL, " ");
     }
-
+    
+    printf("This should be 77: %d\n", x->array[77][21]);
+	printf("This should be 27: %d\n", y->array[77][27]);
     return pop(stack);
 }
 

@@ -18,6 +18,16 @@ matrix* matrix_alloc(int size1, int size2)
     return m;
 }
 
+matrix* cpy_matrix(matrix* m)
+{
+	matrix* cpy = matrix_alloc(m->size1, m->size2);
+	int i, j;
+	for (i = 0; i < m->size1; i++)
+		for (j = 0; j < m->size2; j++)
+			cpy->array[i][j] = m->array[i][j];
+	return cpy;
+}
+
 matrix* sin_matrix(matrix* m)
 {
     int i, j;
