@@ -1,11 +1,17 @@
 # AutoArt
 A computer program that generates art
 
+**AutoArt now has an [Android app](https://github.com/pommicket/AutoArtAndroid).**
+
+**[AutoCam](http://github.com/pommicket/AutoCam) uses videos from your webcam to generate AutoArt!**
+
 AutoArt uses [stb_image](https://github.com/nothings/stb) to create images.
 
 For an online version of AutoArt go to http://autoart.neocities.org
 
 For a faster version of AutoArt that runs on your GPU, try [AutoArtGPU](http://github.com/pommicket/AutoArtGPU). Note that this has many more dependencies than AutoArt, so it will be harder to install.
+
+An explanation of how AutoArt works can be found [here](http://autoart.neocities.org/explanation.html).
 
 **AutoVideos (not AutoImages) requires avconv**
 
@@ -31,3 +37,5 @@ On Debian/Ubuntu just run the following command:
 ```
 sudo apt-get install libav-tools
 ```
+
+
