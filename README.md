@@ -1,4 +1,8 @@
 # AutoArt
+
+**This is an older version of AutoArt. A newer, faster version with more options can be found [here](https://github.com/pommicket/autoart).**
+
+
 A computer program that generates art
 
 **AutoArt now has an [Android app](https://github.com/pommicket/AutoArtAndroid).**
@@ -7,7 +11,7 @@ A computer program that generates art
 
 AutoArt uses [stb_image](https://github.com/nothings/stb) to create images.
 
-For an online version of AutoArt go to http://autoart.neocities.org
+For an online version of AutoArt go to http://pommicket.com/pommicket
 
 For a faster version of AutoArt that runs on your GPU, try [AutoArtGPU](http://github.com/pommicket/AutoArtGPU). Note that this has many more dependencies than AutoArt, so it will be harder to install.
 
